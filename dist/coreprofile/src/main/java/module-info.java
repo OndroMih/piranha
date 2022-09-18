@@ -27,11 +27,11 @@
  */
 
 /**
- * The Piranha Core Profile module.
+ * The Piranha Core Profile Distribution module.
  * 
  * @author Manfred Riem (mriem@manorrock.com)
  */
-module cloud.piranha.coreprofile {
+module cloud.piranha.dist.coreprofile {
     
     exports cloud.piranha.dist.coreprofile;
     opens cloud.piranha.dist.coreprofile;
